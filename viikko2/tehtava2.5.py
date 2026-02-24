@@ -18,9 +18,9 @@ naulatulo = naula * 32 * 13.3
 luotitulo = luoti * 13.3
 
 summakilo = (leiviskatulo + naulatulo + luotitulo)/1000
-summagramma = (leiviskatulo + naulatulo + luotitulo)-summakilo
+summagramma = (leiviskatulo + naulatulo + luotitulo) - summakilo
 
-print(f"Massa nykymittojen mukaan:  {summakilo:6.0f} kilogrammaa ja {summagramma:6.3f})")
+print(f"Massa nykymittojen mukaan:  {summakilo:6.0f} kilogrammaa ja {summagramma:6.3f} grammaa")
 
 
 
